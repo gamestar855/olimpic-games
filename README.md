@@ -1,8 +1,7 @@
-# React + Vite
+# Página Web de los Juegos Olímpicos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ésta es una página web creada con propósitos de aprendizaje del framework de React
 
-Currently, two official plugins are available:
+## Puesta en desarrollo:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- `make up`
