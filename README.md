@@ -2,6 +2,9 @@
 
 Ésta es una página web creada con propósitos de aprendizaje del framework de React
 
-## Puesta en desarrollo:
+### Requerimientos:
+- Tener instalado docker y docker compose
+
+### Puesta en desarrollo:
 
 - `make up`
